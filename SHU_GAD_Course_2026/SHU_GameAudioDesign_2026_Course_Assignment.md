@@ -56,7 +56,6 @@
     - 交互逻辑与系统设计：触发机制和参数控制等逻辑，以及音频系统与其他模块之间的关系（20%）
     - 整体表现：原型的可玩性、音频与交互的契合程度，以及声音的整体质感（10%）
 
-
 ### 二、Unreal & Wwise 音频设计实践
 
 - 使用 Unreal Engine 引擎和 Wwise 音频中间件，完成下列音频设计的各个模块内容：
@@ -65,9 +64,8 @@
   - 物件 3D Object
   - 角色脚步 Character Foley Footstep
 - 具体细节要求请参考文档：Unreal_Wwise_Audio_Design_Assignment_Breakdown.md
-- 声音资源可以自己制作，也可以使用提供的声音资源包：
-- 教程视频链接：
-  - 阿里云盘：https://www.alipan.com/s/yc47SaXpAsv
+- 声音资源可以自己制作，也可以使用提供的声音资源包：https://github.com/SounDoer/SHU-GAD-Course/tree/main/Resource/Sound
+- 教程视频链接：https://www.alipan.com/s/yc47SaXpAsv
 - 需要交付的内容：
   - Markdown 格式的说明文档，简述开发过程的想法或遇到的问题（5%）
   - 完整的项目工程：
@@ -77,4 +75,3 @@
     - 整体表现（10%）
 
 ---
-
